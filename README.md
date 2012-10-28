@@ -9,6 +9,10 @@ Usage
 2. Fill in your titles in `aoColumns`
 3. Enter your search query in `sAjaxSource`
 
+Demo
+--------
+Here is a [demo](http://timwis.github.com/cloudmine-datatables) with a sample data set
+
 Further Information
 ---------------------------
 This assumes you have a basic understanding of CloudMine and DataTables, which are both fantastic libraries. To learn more about them, visit:
